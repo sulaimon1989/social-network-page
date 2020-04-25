@@ -12,9 +12,15 @@
     width: 200px;
     height: 200px;
     background-color: mediumblue;
-    top: 250px;
+    top: 190px;
     left: 50px;
     z-index: 3;
+}
+.headerbutton button{
+    position: relative;
+    top: 350px;
+    left: 500px;
+
 }
 .navbar{
     width: 850px;
@@ -39,7 +45,7 @@
 .rightcolumn{
     position: relative;
     width: 512px;
-    height: 600px;
+    height: 400px;
     background-color: moccasin;
     float: right;
     top: 40px;
@@ -49,4 +55,12 @@ ul button{
     position: relative;
     top:50px;
     left:250px
+}
+p{
+    position: relative;
+    text-align: center;
+    width: 850px;
+    height: 100px;
+    margin: 0 auto;
+
 }
